@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarPRNT_SDK</string>
+    <string name="print_button">PRINT</string>
+    <string name="search_button">FIND PRINTERS</string>
+</resources>
